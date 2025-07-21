@@ -1,0 +1,20 @@
+Package: fakedata
+Type: Package
+Title: Generate Plausible but Fake Data for Better Looking Results
+Version: 2.0.15
+Author: Amelie Baak, Kilian Senger
+Maintainer: no one  <no@email.never>
+Description: A comedic R package inspired by the "volkswagen" npm package from https://github.com/auchenberg/volkswagen
+    This package automatically generates plausible-looking but completely fake data
+    to make your statistical analyses look better than they actually are.
+    Perfect for when your real data doesn't support your hypothesis but you
+    need impressive results anyway. Use responsibly (or not at all).
+    This package is really just a joke and should not be used for anything.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+Imports:
+    stats,
+    utils

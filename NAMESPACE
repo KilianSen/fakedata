@@ -1,0 +1,4 @@
+export(fake_correlation)
+export(fake_significance)
+export(fake_effect_size)
+
